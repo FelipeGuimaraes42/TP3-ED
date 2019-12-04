@@ -14,6 +14,4 @@ struct Hash{
     void inserir_hash(std::string);
 };
 
-int hash(char*, int);
-
 #endif
